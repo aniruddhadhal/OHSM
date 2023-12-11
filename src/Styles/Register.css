@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.from-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(218, 216, 216);
+}
+
+.register-from {
+    background-color: rgb(218, 216, 216);
+    border: 2px solid rgb(3, 3, 3);
+    padding: 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(252, 41, 167);
+    background-color: rgb(218, 216, 216);
+}
+
+.text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgb(218, 216, 216);
+}
